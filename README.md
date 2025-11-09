@@ -17,13 +17,3 @@
 - `variables.tf` - переменные
 - `vkcs_provider.tf` - провайдер VK Cloud
 
-### Документация
-- `docs/report.md` - полный отчет по развертыванию
-- `screenshots/` - скриншоты процесса
-
-## Быстрый старт
-```bash
-cd terraform
-terraform init
-terraform plan
-terraform apply
